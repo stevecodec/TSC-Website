@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>TSC</title>
+    <script data-cfasync="false">
+    var QUIX_ROOT_URL = "https://www.tsc.go.ke/";
+    window.FILE_MANAGER_ROOT_URL = "https://www.tsc.go.ke/images/";
+    </script>
+		<description><![CDATA[]]></description>
+		<link>https://www.tsc.go.ke/index.php/component/tags/tag/9</link>
+		<lastBuildDate>Mon, 16 Jan 2023 11:20:31 +0300</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.tsc.go.ke/index.php/component/tags/tag/teacher-registration?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Denial of Registration</title>
+    <script data-cfasync="false">
+    var QUIX_ROOT_URL = "https://www.tsc.go.ke/";
+    window.FILE_MANAGER_ROOT_URL = "https://www.tsc.go.ke/images/";
+    </script>
+			<link>https://www.tsc.go.ke/index.php/services/teacher-registration/denial-of-registration</link>
+			<guid isPermaLink="true">https://www.tsc.go.ke/index.php/services/teacher-registration/denial-of-registration</guid>
+			<description><![CDATA[<p><span style="color: #133154;"><strong>One can be denied registration if he/she: </strong></span></p>
+<ol>
+<li>Lacks the relevant academic and professional qualifications</li>
+<li>Is not of good moral character has been convicted of a sexual offence or an offence against a learner</li>
+<li>Has been convicted of a criminal offence which renders the person unfit to be a teacher</li>
+<li>Is engaged in activities which are prejudicial to peace, good order or good governance in Kenya</li>
+<li>Suffers from physical or mental infirmity which renders the person incapable of performing the duties of a teacher</li>
+</ol>]]></description>
+			<category>Denial of Registration</category>
+			<pubDate>Tue, 23 Jul 2019 09:32:12 +0300</pubDate>
+		</item>
+		<item>
+			<title>Deregistration</title>
+    <script data-cfasync="false">
+    var QUIX_ROOT_URL = "https://www.tsc.go.ke/";
+    window.FILE_MANAGER_ROOT_URL = "https://www.tsc.go.ke/images/";
+    </script>
+			<link>https://www.tsc.go.ke/index.php/services/teacher-registration/deregistration</link>
+			<guid isPermaLink="true">https://www.tsc.go.ke/index.php/services/teacher-registration/deregistration</guid>
+			<description><![CDATA[<p><span style="color: #133154;"><strong>A teacher can be deregistered if he/she: </strong></span></p>
+<ol>
+<li>Dies</li>
+<li>Obtains registration fraudulently</li>
+<li>Has been convicted of a sexual offence or an offence against a learner</li>
+<li>Has been convicted of a criminal offence which renders the person unfit to be a teacher</li>
+<li>Is found unfit to teach following disciplinary proceedings</li>
+<li>Suffers from physical or mental illness or infirmity which renders the person incapable of performing the duties of a teacher.</li>
+</ol>
+<p><span style="color: #133154;"><strong>Whenever a teacher is deregistered his/her name will be published in the Kenya Gazette.</strong></span></p>]]></description>
+			<category>Deregistration</category>
+			<pubDate>Tue, 23 Jul 2019 09:34:04 +0300</pubDate>
+		</item>
+		<item>
+			<title>Teacher Registration</title>
+    <script data-cfasync="false">
+    var QUIX_ROOT_URL = "https://www.tsc.go.ke/";
+    window.FILE_MANAGER_ROOT_URL = "https://www.tsc.go.ke/images/";
+    </script>
+			<link>https://www.tsc.go.ke/index.php/services/teacher-registration/registration</link>
+			<guid isPermaLink="true">https://www.tsc.go.ke/index.php/services/teacher-registration/registration</guid>
+			<description><![CDATA[<p>The Teachers Service Commission Act 2012 Article 237, requires the commission to register all qualified teachers before they can teach in any public or private institution. A teacher who meets the requirements for registration will be issued with the certificate of Registration bearing a TSC number within 30 days. The names of all registered teachers will be published every year.</p>
+<p><span style="color: #133154;"><strong>Requirements:</strong></span></p>
+<p>Applicants are required to apply for registration online and the user-guide is also available.</p>
+<p>One should scan and upload the following documents:</p>
+<ol>
+<li>Certified copies of academic and professional certificates</li>
+<li>National identity card</li>
+<li>Bank slip</li>
+<li>One passport size photo</li>
+<li>KRA pin</li>
+<li>GP69 form</li>
+<li>Certificate of good conduct</li>
+<li>Entry and work permits for non-Kenyans.</li>
+</ol>
+<p><span style="color: #133154;"><strong>For  registration, one is required to deposit Ksh 1,060 through Direct Banking or Simple Banking. (KSh 1,000 is a non refundable registration fee and ksh 60 for Bank Commission Charge to the TSC).</strong></span></p>
+<p><span style="color: #133154;"><strong>For application for a duplicate certificate, one is required to deposit KSh 2,060 (KSh 2,000 is a non refundable application fee and ksh 60 for Bank Commission Charge to the TSC). </strong></span></p>
+<p> </p>
+<p><span style="color: #133154;"><strong>The amounts are payable to:</strong></span></p>
+<p> </p>
+<p><span style="color: #133154;"><strong>National Bank of Kenya Ltd, </strong></span></p>
+<p><span style="color: #133154;"><strong>Harambee Avenue branch, </strong></span></p>
+<p><span style="color: #133154;"><strong>Account Name: TSC-Secretariat</strong></span></p>
+<p><span style="color: #133154;"><strong> Account Number: 01001005707400</strong></span></p>
+<p> </p>
+<p><strong><span style="color: #ff0000;">*Only original documents should be scanned</span></strong></p>]]></description>
+			<category>Teacher Registration</category>
+			<pubDate>Tue, 23 Jul 2019 09:25:48 +0300</pubDate>
+		</item>
+	</channel>
+</rss>

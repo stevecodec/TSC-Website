@@ -1,0 +1,52 @@
+header#sp-header.jd-style-1 {
+    background: #041124;
+}
+/***********************
+ * TITLE *
+ /***********************/
+#sp-title .sp-page-title {     /* this code is for sizing the sp-page title */
+  padding: 50px 0 20px;
+  background-size: cover;
+}
+#sp-title .sp-page-title .container {
+  display: flex;
+}
+#sp-title .sp-page-title .container .sp-page-title-heading, #sp-title .sp-page-title .container .custom {
+  flex: 1 1 0;
+}
+#sp-title .sp-page-title .container .custom {
+  text-align: right;
+}
+/*changing module menu font and color*/
+#sp-left ul.menu li a, #sp-right ul.menu li a, #sp-left ul.categories-module li a, #sp-right ul.categories-module li a {
+  color: #133154;
+  font-size: 14.5px;
+  font-weight: 700;
+  transition: all 0.35s ease-in-out 0s;
+  border: 5px;
+}
+footer#sp-footer h3.sp-module-title {
+  color: #133154;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+footer#sp-footer {
+  font-size: inherit;
+  border-top: 5px solid #f5f5f5;
+  border-bottom: 5px solid #f5f5f5;
+}
+/***********************
+ * BREADCRUMBS *
+ /***********************/
+#sp-breadcrumbs ol.breadcrumb {
+  padding: 10px 0;
+  background-color: #fff;
+  border-bottom: 5px solid #f3f3f3;
+  border-radius: 0;
+}
+
+div[id*="qx-jd-joomla-articles-"].qx-element-jd-joomla-articles.qx-layout-grid .qx-row:nth-child(odd) .qx-media-grid .qx-media-inner .image-figure figure:hover:after,
+div[id*="qx-jd-joomla-articles-"].qx-element-jd-joomla-articles.qx-layout-grid .qx-row:nth-child(even) .qx-media-grid .qx-media-inner .image-figure figure:hover:after {
+	background: rgba(204,158,74, 0.83)/*NOTE: You can change this color code as you want*/;
+}

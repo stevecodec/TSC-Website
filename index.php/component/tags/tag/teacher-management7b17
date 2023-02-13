@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">TSC</title>
+    <script data-cfasync="false">
+    var QUIX_ROOT_URL = "https://www.tsc.go.ke/";
+    window.FILE_MANAGER_ROOT_URL = "https://www.tsc.go.ke/images/";
+    </script>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://www.tsc.go.ke"/>
+	<id>https://www.tsc.go.ke/index.php/component/tags/tag/teacher-management</id>
+	<updated>2023-01-16T11:20:30+03:00</updated>
+	<author>
+		<name>TSC web forms</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.tsc.go.ke/index.php/component/tags/tag/teacher-management?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Determination of a Discipline Case</title>
+    <script data-cfasync="false">
+    var QUIX_ROOT_URL = "https://www.tsc.go.ke/";
+    window.FILE_MANAGER_ROOT_URL = "https://www.tsc.go.ke/images/";
+    </script>
+		<link rel="alternate" type="text/html" href="https://www.tsc.go.ke/index.php/services/teacher-management/determination-of-a-discipline-case"/>
+		<published>2019-07-17T08:08:00+03:00</published>
+		<updated>2019-07-17T08:08:00+03:00</updated>
+		<id>https://www.tsc.go.ke/index.php/services/teacher-management/determination-of-a-discipline-case</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;After interdiction and submission of the required evidence the teacher shall be given a chance to defend himself/herself in person before the Commission. A case shall be heard and determined in the absence of the teacher if he/she fails to appear during the hearing. From the evidence gathered, the Commission may;&lt;/p&gt;
+&lt;ol style=&quot;text-align: justify;&quot;&gt;
+&lt;li&gt;Revoke the interdiction.&lt;/li&gt;
+&lt;li&gt;Warn the teacher.&lt;/li&gt;
+&lt;li&gt;Suspend the teacher from duty.&lt;/li&gt;
+&lt;li&gt;Dismiss the teacher from service.&lt;/li&gt;
+&lt;li&gt;Retire the teacher in the public interest.&lt;/li&gt;
+&lt;li&gt;Dismiss and remove from the register of teachers.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;It is an offence for a teacher to engage in teaching in any institutions (public or otherwise) during the period of interdiction or suspension or on removal from the registry of teachers.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Where a teacher has been suspended from duty, he/she will be posted 14 days before the expiry of the suspension.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;A teacher will be posted immediately in cases of revocation and warning. A teacher who does not receive communication within 28 days after hearing should make enquiries to the Commission Headquarters in person.&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;After interdiction and submission of the required evidence the teacher shall be given a chance to defend himself/herself in person before the Commission. A case shall be heard and determined in the absence of the teacher if he/she fails to appear during the hearing. From the evidence gathered, the Commission may;&lt;/p&gt;
+&lt;ol style=&quot;text-align: justify;&quot;&gt;
+&lt;li&gt;Revoke the interdiction.&lt;/li&gt;
+&lt;li&gt;Warn the teacher.&lt;/li&gt;
+&lt;li&gt;Suspend the teacher from duty.&lt;/li&gt;
+&lt;li&gt;Dismiss the teacher from service.&lt;/li&gt;
+&lt;li&gt;Retire the teacher in the public interest.&lt;/li&gt;
+&lt;li&gt;Dismiss and remove from the register of teachers.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;It is an offence for a teacher to engage in teaching in any institutions (public or otherwise) during the period of interdiction or suspension or on removal from the registry of teachers.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Where a teacher has been suspended from duty, he/she will be posted 14 days before the expiry of the suspension.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;A teacher will be posted immediately in cases of revocation and warning. A teacher who does not receive communication within 28 days after hearing should make enquiries to the Commission Headquarters in person.&lt;/p&gt;</content>
+		<category term="Determination of a Discipline Case" />
+	</entry>
+	<entry>
+		<title>Nature of Offences</title>
+    <script data-cfasync="false">
+    var QUIX_ROOT_URL = "https://www.tsc.go.ke/";
+    window.FILE_MANAGER_ROOT_URL = "https://www.tsc.go.ke/images/";
+    </script>
+		<link rel="alternate" type="text/html" href="https://www.tsc.go.ke/index.php/services/teacher-management/nature-of-offences"/>
+		<published>2019-07-17T08:13:47+03:00</published>
+		<updated>2019-07-17T08:13:47+03:00</updated>
+		<id>https://www.tsc.go.ke/index.php/services/teacher-management/nature-of-offences</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;The Commission may take disciplinary action against a teacher who commits any of the following offences:&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;Immoral behaviour, including but not restricted to:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Sexual intercourse&lt;/li&gt;
+&lt;li&gt;Sodomy&lt;/li&gt;
+&lt;li&gt;Lesbianism and&lt;/li&gt;
+&lt;li&gt;Sexual harrasment&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt; Proffesional misconduct including but not restricted to:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Negligence of duty&lt;/li&gt;
+&lt;li&gt;Lateness to duty&lt;/li&gt;
+&lt;li&gt;Chronic absenteeism&lt;/li&gt;
+&lt;li&gt;Desertion Incitement and&lt;/li&gt;
+&lt;li&gt;Insurbordination&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;Infamous conduct including but not restricted to:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Drunkeness&lt;/li&gt;
+&lt;li&gt;Fighting&lt;/li&gt;
+&lt;li&gt;Conduct or behaviour which in the opinion of the Commission contradicts the spirit and tenor of Chapter six of the Constitution&lt;/li&gt;
+&lt;li&gt;Forgery/ presentation of forged documents&lt;/li&gt;
+&lt;li&gt;Mismanagement, misappropriation and embezzlement of public funds&lt;/li&gt;
+&lt;li&gt;Any other act of conduct that is incompatible with the teaching proffession&lt;/li&gt;
+&lt;/ol&gt;</summary>
+		<content type="html">&lt;p&gt;The Commission may take disciplinary action against a teacher who commits any of the following offences:&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;Immoral behaviour, including but not restricted to:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Sexual intercourse&lt;/li&gt;
+&lt;li&gt;Sodomy&lt;/li&gt;
+&lt;li&gt;Lesbianism and&lt;/li&gt;
+&lt;li&gt;Sexual harrasment&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt; Proffesional misconduct including but not restricted to:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Negligence of duty&lt;/li&gt;
+&lt;li&gt;Lateness to duty&lt;/li&gt;
+&lt;li&gt;Chronic absenteeism&lt;/li&gt;
+&lt;li&gt;Desertion Incitement and&lt;/li&gt;
+&lt;li&gt;Insurbordination&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;Infamous conduct including but not restricted to:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Drunkeness&lt;/li&gt;
+&lt;li&gt;Fighting&lt;/li&gt;
+&lt;li&gt;Conduct or behaviour which in the opinion of the Commission contradicts the spirit and tenor of Chapter six of the Constitution&lt;/li&gt;
+&lt;li&gt;Forgery/ presentation of forged documents&lt;/li&gt;
+&lt;li&gt;Mismanagement, misappropriation and embezzlement of public funds&lt;/li&gt;
+&lt;li&gt;Any other act of conduct that is incompatible with the teaching proffession&lt;/li&gt;
+&lt;/ol&gt;</content>
+		<category term="Nature of Offences" />
+	</entry>
+	<entry>
+		<title>Professional Misconduct</title>
+    <script data-cfasync="false">
+    var QUIX_ROOT_URL = "https://www.tsc.go.ke/";
+    window.FILE_MANAGER_ROOT_URL = "https://www.tsc.go.ke/images/";
+    </script>
+		<link rel="alternate" type="text/html" href="https://www.tsc.go.ke/index.php/services/teacher-management/professional-misconduct"/>
+		<published>2019-07-17T08:04:36+03:00</published>
+		<updated>2019-07-17T08:04:36+03:00</updated>
+		<id>https://www.tsc.go.ke/index.php/services/teacher-management/professional-misconduct</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Teachers who violate the provisions of the Code of Regulations for Teachers and the TSC Code of Conduct and Ethics will face disciplinary action which may include warning or interdiction.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;Disciplinary Process&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol style=&quot;text-align: justify;&quot;&gt;
+&lt;li&gt;A Head of institution may initially issue a verbal warning or caution the teacher in writing on minor breaches.&lt;/li&gt;
+&lt;li&gt;In case of persistent misbehaviour, the teacher may be required to show cause why disciplinary action should not be taken against him/her.&lt;/li&gt;
+&lt;li&gt;From the teacher’s response, the head of institution may serve the teacher with a warning or present the case before the agent.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;The agent shall;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol style=&quot;text-align: justify;&quot;&gt;
+&lt;li&gt;Investigate and assemble relevant evidence.&lt;/li&gt;
+&lt;li&gt;Invite the accused teacher in writing to defend himself/herself against specified allegation.&lt;/li&gt;
+&lt;li&gt;Call witnesses to give evidence in the presence of the accused teacher.&lt;/li&gt;
+&lt;li&gt;Allow the teacher to cross-examine each witness.&lt;/li&gt;
+&lt;li&gt;In case of desertion where teacher’s whereabouts is unknown, the agent will interdict without any delay.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;After the preliminary hearing the agent may reach any of the following decisions;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol style=&quot;text-align: justify;&quot;&gt;
+&lt;li&gt;No case to answer.&lt;/li&gt;
+&lt;li&gt;Warn the teacher administratively.&lt;/li&gt;
+&lt;li&gt;Interdict the teacher.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;NB:&lt;/strong&gt;&lt;/span&gt; In some cases TSC or agent can interdict a teacher without inviting him/her for preliminary hearing.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;An interdicted teacher should write a defense statement within 21 days from the date of interdiction and provide contact address. A case will normally be heard within three months after interdiction. In case of delay the teacher is advised to make enquiries.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;Salary during interdiction&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Teachers interdicted on cases of incitement, insubordination, infamous conduct and negligence of duty will be paid half salary during the period of interdiction&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Teachers who violate the provisions of the Code of Regulations for Teachers and the TSC Code of Conduct and Ethics will face disciplinary action which may include warning or interdiction.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;Disciplinary Process&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol style=&quot;text-align: justify;&quot;&gt;
+&lt;li&gt;A Head of institution may initially issue a verbal warning or caution the teacher in writing on minor breaches.&lt;/li&gt;
+&lt;li&gt;In case of persistent misbehaviour, the teacher may be required to show cause why disciplinary action should not be taken against him/her.&lt;/li&gt;
+&lt;li&gt;From the teacher’s response, the head of institution may serve the teacher with a warning or present the case before the agent.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;The agent shall;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol style=&quot;text-align: justify;&quot;&gt;
+&lt;li&gt;Investigate and assemble relevant evidence.&lt;/li&gt;
+&lt;li&gt;Invite the accused teacher in writing to defend himself/herself against specified allegation.&lt;/li&gt;
+&lt;li&gt;Call witnesses to give evidence in the presence of the accused teacher.&lt;/li&gt;
+&lt;li&gt;Allow the teacher to cross-examine each witness.&lt;/li&gt;
+&lt;li&gt;In case of desertion where teacher’s whereabouts is unknown, the agent will interdict without any delay.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;After the preliminary hearing the agent may reach any of the following decisions;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol style=&quot;text-align: justify;&quot;&gt;
+&lt;li&gt;No case to answer.&lt;/li&gt;
+&lt;li&gt;Warn the teacher administratively.&lt;/li&gt;
+&lt;li&gt;Interdict the teacher.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;NB:&lt;/strong&gt;&lt;/span&gt; In some cases TSC or agent can interdict a teacher without inviting him/her for preliminary hearing.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;An interdicted teacher should write a defense statement within 21 days from the date of interdiction and provide contact address. A case will normally be heard within three months after interdiction. In case of delay the teacher is advised to make enquiries.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;Salary during interdiction&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Teachers interdicted on cases of incitement, insubordination, infamous conduct and negligence of duty will be paid half salary during the period of interdiction&lt;/p&gt;</content>
+		<category term="Professional Misconduct" />
+	</entry>
+	<entry>
+		<title>Recruitment and Selection</title>
+    <script data-cfasync="false">
+    var QUIX_ROOT_URL = "https://www.tsc.go.ke/";
+    window.FILE_MANAGER_ROOT_URL = "https://www.tsc.go.ke/images/";
+    </script>
+		<link rel="alternate" type="text/html" href="https://www.tsc.go.ke/index.php/services/teacher-management/recruitment-and-selection"/>
+		<published>2019-07-17T07:54:45+03:00</published>
+		<updated>2019-07-17T07:54:45+03:00</updated>
+		<id>https://www.tsc.go.ke/index.php/services/teacher-management/recruitment-and-selection</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Recruitment of teachers by the Commission is demand driven and has been decentralized to TSC County for primary schools and Board of Management for post-primary institutions.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;Process of recruitment and selection&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;The Commission will advertise available vacancies and interested candidates will be required to submit application forms to the county/institutions where they would wish to be considered for employment.&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;Short listed candidates will be invited to appear before the recruitment panel.&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;Successful candidates will fill employment forms.&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;Agents will submit completed forms and merit lists to TSC headquarters&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;Vetting Process &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;The Commission will vet the recruitment documents in accordance with the guidelines and:&lt;/p&gt;
+&lt;ol style=&quot;text-align: justify;&quot;&gt;
+&lt;li&gt;Inform the recruiting agents of the outcome of the vetting process.&lt;/li&gt;
+&lt;li&gt;Issue appointment letters to successful candidates. Failure to take up the appointment within the stipulated period will automatically lead to cancellation of appointment.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Aggrieved candidates may channel their grievances to the Commission within two weeks from selection date.&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Recruitment of teachers by the Commission is demand driven and has been decentralized to TSC County for primary schools and Board of Management for post-primary institutions.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;Process of recruitment and selection&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;The Commission will advertise available vacancies and interested candidates will be required to submit application forms to the county/institutions where they would wish to be considered for employment.&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;Short listed candidates will be invited to appear before the recruitment panel.&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;Successful candidates will fill employment forms.&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;Agents will submit completed forms and merit lists to TSC headquarters&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #133154;&quot;&gt;&lt;strong&gt;Vetting Process &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;The Commission will vet the recruitment documents in accordance with the guidelines and:&lt;/p&gt;
+&lt;ol style=&quot;text-align: justify;&quot;&gt;
+&lt;li&gt;Inform the recruiting agents of the outcome of the vetting process.&lt;/li&gt;
+&lt;li&gt;Issue appointment letters to successful candidates. Failure to take up the appointment within the stipulated period will automatically lead to cancellation of appointment.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Aggrieved candidates may channel their grievances to the Commission within two weeks from selection date.&lt;/p&gt;</content>
+		<category term="Recruitment and Selection" />
+	</entry>
+	<entry>
+		<title>Transfers</title>
+    <script data-cfasync="false">
+    var QUIX_ROOT_URL = "https://www.tsc.go.ke/";
+    window.FILE_MANAGER_ROOT_URL = "https://www.tsc.go.ke/images/";
+    </script>
+		<link rel="alternate" type="text/html" href="https://www.tsc.go.ke/index.php/services/teacher-management/transfers"/>
+		<published>2019-07-17T07:59:28+03:00</published>
+		<updated>2019-07-17T07:59:28+03:00</updated>
+		<id>https://www.tsc.go.ke/index.php/services/teacher-management/transfers</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Transfer requests are normally considered for approval by the Appointment Board, once, at the end of the year. However, the Commission can transfer a teacher at its discretion. A teacher wishing to be considered for transfer should do so by:&lt;/p&gt;
+&lt;ol style=&quot;text-align: justify;&quot;&gt;
+&lt;li&gt;Filling in a transfer application form through the head of institution. Transfer forms are available at TSC offices countrywide or can be downloaded from TSC website.&lt;/li&gt;
+&lt;li&gt;Completed application forms should be sent to the TSC or its agents by the head of institution.&lt;/li&gt;
+&lt;li&gt;Transfers for primary school teachers within the county will be handled by the TSC County Director.&lt;/li&gt;
+&lt;li&gt;Transfers outside the county will be handled by the TSC headquarters. Applications for transfer for tertiary institutions are processed at the TSC headquarters.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Transfer requests submitted to the Commission will be acknowledged promptly. The decision of the Appointment Board will later be communicated to the teacher. Transfers will be granted subject to availability of vacancy and replacement.&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;Transfer requests are normally considered for approval by the Appointment Board, once, at the end of the year. However, the Commission can transfer a teacher at its discretion. A teacher wishing to be considered for transfer should do so by:&lt;/p&gt;
+&lt;ol style=&quot;text-align: justify;&quot;&gt;
+&lt;li&gt;Filling in a transfer application form through the head of institution. Transfer forms are available at TSC offices countrywide or can be downloaded from TSC website.&lt;/li&gt;
+&lt;li&gt;Completed application forms should be sent to the TSC or its agents by the head of institution.&lt;/li&gt;
+&lt;li&gt;Transfers for primary school teachers within the county will be handled by the TSC County Director.&lt;/li&gt;
+&lt;li&gt;Transfers outside the county will be handled by the TSC headquarters. Applications for transfer for tertiary institutions are processed at the TSC headquarters.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Transfer requests submitted to the Commission will be acknowledged promptly. The decision of the Appointment Board will later be communicated to the teacher. Transfers will be granted subject to availability of vacancy and replacement.&lt;/p&gt;</content>
+		<category term="Transfers" />
+	</entry>
+</feed>
